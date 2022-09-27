@@ -3,7 +3,7 @@
  Also I love to improvise, and creating not just a regular site, but a "new world".
  </p>
 <p align="center">
-<img src="https://c.tenor.com/XKSAVbcfd7sAAAAC/discord-baner-discord-profile.gif" alt="Gif" class="picture">
+<img src="https://i.gifer.com/YAg6.gif" alt="Gif" class="picture">
 </p>
 <p align="center">
 Check some on my study repos ⏬</strong>
