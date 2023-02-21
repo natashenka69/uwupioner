@@ -7,6 +7,5 @@
 <img src="https://i.gifer.com/origin/6a/6a215df49524df23bbb9ebbd2da7b45f.gif" alt="Gif" class="picture">
 </p>
 <h3 align="center" style="display: inline">
-Check some on my study repos ⏬
 </strong>
 </h3>
